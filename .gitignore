@@ -1,0 +1,5 @@
+bin/*
+libr/*
+
+src/dbSql/*
+src/utils/MySql/DbConn.java

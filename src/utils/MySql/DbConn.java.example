@@ -1,0 +1,8 @@
+package utils.MySql;
+
+public abstract class DbConn {
+	protected final String dbUrl = 
+			"<dbUrl>";
+	protected final String user = "<user>";
+	protected final String pwd = "<pwd>";
+}
